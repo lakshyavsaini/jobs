@@ -7,7 +7,6 @@ import java.util.Arrays;
 
 @Document(collection = "JobPost")
 public class Post {
-
     private String profile;
     private String desc;
     private int exp;
